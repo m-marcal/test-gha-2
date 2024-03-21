@@ -4,3 +4,5 @@ on:
 jobs:
  test-2:
     uses: m-marcal/test-gha/.github/workflows/action.yaml@main
+    with:
+        env: 'TEST'
