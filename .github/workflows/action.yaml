@@ -3,4 +3,4 @@ on:
 
 jobs:
  test-2:
-    uses: m-marcal/test-gha/.github/workflows/action.yml@main
+    uses: m-marcal/test-gha/.github/workflows/action.yaml@main
