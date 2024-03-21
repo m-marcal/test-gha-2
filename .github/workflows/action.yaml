@@ -3,6 +3,6 @@ on:
 
 jobs:
  test-2:
-    uses: m-marcal/test-gha/.github/workflows/action.yaml@main
+    uses: m-marcal/test-gha@main
     with:
         env: 'TEST'
